@@ -10,6 +10,10 @@ This is a high quality vector graphics rendering library for OpenGL and OpenGL E
 
 The API is based on [NV_path_rendering extension](https://www.opengl.org/registry/specs/NV/path_rendering.txt).
 
+# API Reference
+
+See the header file pr.h for API reference.
+
 # Status
 
 ### Finished
@@ -26,3 +30,6 @@ The API is based on [NV_path_rendering extension](https://www.opengl.org/registr
 
 * Dashing
 
+### License 
+
+MIT License
