@@ -4,10 +4,7 @@
 # Path Rendering
 This is a high quality vector graphics rendering library for OpenGL and OpenGL ES. It's mostly based on 'GPU Accelerated Path Rendering' paper (stencil and cover method) from NVIDIA.
 
-# Video
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/Ysg2L2CR4AM" frameborder="0" allowfullscreen></iframe>
-
+[![Video](http://img.youtube.com/vi/Ysg2L2CR4AM/0.jpg)](http://www.youtube.com/watch?v=Ysg2L2CR4AM)
 
 # Usage
 
